@@ -7,7 +7,7 @@
     }
   },
   "env" : {
-    "brower": true,
+    "browser": true,
     "node": true
   },
   "extends": [
