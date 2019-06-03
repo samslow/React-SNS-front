@@ -1,7 +1,7 @@
 import Head from "next/head";
 import React from "react";
 import PropTypes from 'prop-types';
-import AppLayout from '../components/AppLayout'
+import AppLayout from '../components/AppLayout';
 
 const NodeBird = ({ Component }) => {
   return (
